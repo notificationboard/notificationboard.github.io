@@ -5,21 +5,21 @@ hidden: true
 title: AyePages™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/1/14/Bulletin_Board_with_notes.svg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an AyePages™ site<br>
+  <b>This is an Announcements site<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about AyePages™  </a>
+  <a href="about/">More about Announcements  </a>
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
     alt: "Highlight1"
-    title: "Learn"
-    excerpt: "All you need to do is just take 2 minutes of your time and that's all for a fork. Ofcourse, a bit longer to learn, try out a free course [here](https://ayeai.xyz/site/courses/github-pages-site-in-2-minutes-with-ayepages/)
+    title: "Announcements"
+    excerpt: "This site shows all the announcements on various processes and formalities in Trainer's Evaluation Process
  <br><br><br>"
     url: "/learn/"
     btn_class: "btn--primary"
